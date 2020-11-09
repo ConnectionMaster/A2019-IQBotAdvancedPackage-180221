@@ -1,0 +1,10 @@
+{
+  "name": "IQ Bot Advanced",
+  "label": "IQ Bot Advanced",
+  "description": "Provides actions for IQ Bot service operations.",
+  "group": "",
+  "artifactName": "",
+  "packageVersion": "",
+  "codeVersion": "",
+  "commands": []
+}
